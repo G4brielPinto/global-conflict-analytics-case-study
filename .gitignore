@@ -1,0 +1,19 @@
+# Business-intelligence files and embedded data
+*.pbix
+*.pbit
+data/
+datasets/
+exports/
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Local configuration and application files
+.env
+.env.*
+*.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
